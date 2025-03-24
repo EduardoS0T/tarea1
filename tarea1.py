@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 
 # Configuración
 correo_emisor = 'soteloeliasg@gmail.com'
-password = 'jgro tylh zinx nktu'
+password = ' #### '
 correo_destinatario = 'angel.brito@fi.unam.edu'
 
 # Crear el mensaje
